@@ -1,1 +1,3 @@
 nama : jafar jalaludin
+
+print("hello world")
